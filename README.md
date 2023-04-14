@@ -1,1 +1,1 @@
-# test_project
+My first GIT repository commands practised
